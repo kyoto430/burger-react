@@ -20,6 +20,10 @@
   gap: 10px;
 }
 
+.empty {
+  font-size: 16px;
+}
+
 @media (min-width: 1024px) {
   .catalog {
     margin-bottom: 100px;
