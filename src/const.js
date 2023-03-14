@@ -1,2 +1,2 @@
-export const API_URI = 'http://localhost:3024'
+export const API_URI = 'https://northern-stingy-case.glitch.me'
 export const POSTFIX = '/api/product'
