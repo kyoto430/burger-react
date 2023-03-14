@@ -2,7 +2,7 @@ import classNames from 'classnames'
 import { useDispatch, useSelector } from 'react-redux'
 import { submitForm, updateFormValue } from '../../store/form/formSlice'
 import { closeModal } from '../../store/modalDelivery/modalDeliverySlice'
-import style from './ModalDelivery.module.css'
+import style from './modalDelivery.module.css'
 
 export const ModalDelivery = () => {
   const { isOpen } = useSelector((state) => state.modal)
